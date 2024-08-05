@@ -1,2 +1,2 @@
-# segund-o
+# segundão
 aulas de segunda
